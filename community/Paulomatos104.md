@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Olá! Eu sou **Paulo Henrique**, um entusiasta de tecnologia em busca de expandir meu conhecimento e me desenvolver como profissional na área de TI. Tenho **21 anos**, estou cursando o **2º semestre de Análise e Desenvolvimento de Software** e, além disso, estou me especializando em **Fullstack Development**. Amo aprender sobre novas tecnologias e aplicar meus conhecimentos em projetos práticos!
+Olá! Eu sou **Paulo Henrique**, sou um entusiasta de tecnologia em busca de expandir meu conhecimento e me desenvolver como profissional na área de TI. Tenho **21 anos**, estou cursando o **2º semestre de Análise e Desenvolvimento de Software** e, além disso, estou me especializando em **Fullstack Development**. Amo aprender sobre novas tecnologias e aplicar meus conhecimentos em projetos práticos!
 
 - 🌱 Atualmente, estou focado em aprender e dominar: **HTML, CSS, JavaScript, Python e C#**.
 - 🎯 Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações tanto no **frontend** quanto no **backend**.
